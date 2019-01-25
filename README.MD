@@ -5,4 +5,4 @@ Außer der Benutzung von proprietären Cloud-Diensten sind keine sinnvollen Funk
 
 Dieser Cloud-Dienst hat das Projekt automatisch gebaut:
 
-https://travis-ci.com/tud-se-github/flashcards.svg?branch=master
+![Travis](https://travis-ci.com/tud-se-github/flashcards.svg?branch=master "Travis")
